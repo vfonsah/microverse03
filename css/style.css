@@ -1,3 +1,13 @@
+@media (max-width: 600px) {
+    header {
+      flex-wrap: wrap;
+    }
+
+    main {
+        display: flex;
+    }
+  }
+
 #nav-bar{
   position: fixed;
   top: 0;
